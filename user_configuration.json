@@ -146,7 +146,6 @@
         "xfsprogs",
         "rsync",
         "squashfs-tools",
-        "yay",
         "zip",
         "vlc",
         "tree",
